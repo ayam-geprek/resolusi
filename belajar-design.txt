@@ -5,3 +5,4 @@
   
 - Belajar Illustrator 
   * Bisa bikin logo
+  * Bisa bikin ilustrasi untuk web
